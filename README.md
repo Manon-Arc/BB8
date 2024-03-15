@@ -18,10 +18,6 @@ IV. [Model](#🔧-model)
 )](https://www.php.net/)
 
 
-## 📑 License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## 📋 Project description
 
 Rolling sphere prototype inspired by BB8.
@@ -32,7 +28,7 @@ Rolling sphere prototype inspired by BB8.
 [Motor library](code/MoteurDC.py)
 [Server](/code/server_http.py)
 
-## 🔧 Model:
+## 🔧 Models:
 [Vizualisation](https://a360.co/3wuDI2a)
 
 [Arc1](/model/arc1.stl)
